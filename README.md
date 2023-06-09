@@ -1,1 +1,1 @@
-# Frontend_Coding_Ninjas
+This repo conatains projects using HTML, CSS and JavaScript.
